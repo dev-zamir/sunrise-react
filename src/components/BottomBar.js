@@ -7,23 +7,13 @@ const BottomBar = () => {
   return ( 
     <BottomNavigation
       value={value}
-      onChange={(event, newValue) => {
-        setValue(newValue);
-        let url = ''
-        if (newValue === 0)
-          url = 'https://www.instagram.com/conscience.one/'
-        else if (newValue === 1)
-          url = 'https://www.linkedin.com/in/zamirmanihar/'
-        else
-          url = 'https://wa.me/+917047576025'
-        window.open(url, '_blank');
-      }}
-      showLabels
     >
 
-      <BottomNavigationAction label="Instagram" icon={<Instagram />} />
-      <BottomNavigationAction label="LinkedIn" icon={<LinkedIn />} />
-      <BottomNavigationAction label="Whatsapp" icon={<WhatsApp />} />
+      <BottomNavigationAction label="Instagram" value={0} onClick={() => window.open('https://www.instagram.com/conscience.one/', '_blank')} icon={<Instagram />} style={{ color: "#517fa4" }} />
+
+      <BottomNavigationAction label="LinkedIn" value={0} onClick={() => window.open('https://www.linkedin.com/in/zamirmanihar/', '_blank')} icon={<LinkedIn />} style={{ color: "#007bb6" }} />
+
+      <BottomNavigationAction label="Whatsapp" value={0} onClick={() => window.open('https://wa.me/+917047576025')}  icon={<WhatsApp />} style={{ color: "#25d366" }} />
     </BottomNavigation>
    );
 }
