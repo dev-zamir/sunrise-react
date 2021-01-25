@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sunrise-react/static/css/main.6fefd9e1.chunk.css",
-    "main.js": "/sunrise-react/static/js/main.2b2c4bfd.chunk.js",
-    "main.js.map": "/sunrise-react/static/js/main.2b2c4bfd.chunk.js.map",
+    "main.js": "/sunrise-react/static/js/main.3bbaca20.chunk.js",
+    "main.js.map": "/sunrise-react/static/js/main.3bbaca20.chunk.js.map",
     "runtime-main.js": "/sunrise-react/static/js/runtime-main.28ebe640.js",
     "runtime-main.js.map": "/sunrise-react/static/js/runtime-main.28ebe640.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/sunrise-react/static/css/2.ae9f1eb3.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.42b02f8b.chunk.js",
     "static/css/main.6fefd9e1.chunk.css",
-    "static/js/main.2b2c4bfd.chunk.js"
+    "static/js/main.3bbaca20.chunk.js"
   ]
 }
