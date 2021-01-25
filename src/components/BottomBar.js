@@ -15,7 +15,7 @@ const BottomBar = () => {
         else if (newValue === 1)
           url = 'https://www.linkedin.com/in/zamirmanihar/'
         else
-          url = 'https://wa.me/7047576025'
+          url = 'https://wa.me/+917047576025'
         window.open(url, '_blank');
       }}
       showLabels
