@@ -25,7 +25,7 @@ const CustomNavBar = () => {
             <Tab label="HOME" value="1" />
             <Tab label="PRINCIPAL'S MESSAGE" value="2" />
             <Tab label="ABOUT" value="3" />
-            <Tab label="ACTIVITIES" value="4" />
+            {/* <Tab label="ACTIVITIES" value="4" /> */}
             {/* <Tab label="ACADEMICS" value="5" /> */}
             <Tab label="FACILITIES" value="5" />
             <Tab label="DIRECTOR'S VIEW" value="6" />
