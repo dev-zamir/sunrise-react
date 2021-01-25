@@ -1,6 +1,11 @@
 import { Card, CardContent, Paper, Table, TableBody, TableCell, TableContainer, TableRow, Typography } from "@material-ui/core";
+import { useEffect } from "react";
 
 const Career = () => {
+  useEffect(() => {
+    document.title = `Career`;
+  });
+
   return (
     <div className="row px-2">
     <Card className="bg-light mt-2 col-lg-6 col-sm-12">

@@ -1,7 +1,12 @@
+import { useEffect } from "react";
 import { Card } from "react-bootstrap";
 import principalImg from "../../images/principalImg.jpg"
 
 const PrincipalMessage = () => {
+  useEffect(() => {
+    document.title = `Principal's message`;
+  });
+
   return ( 
     <div className="row">
       <div className="col-lg-1"></div>

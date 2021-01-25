@@ -1,7 +1,12 @@
+import { useEffect } from "react";
 import { Card } from "react-bootstrap";
 import DirectorImage from "../../images/DirectorImage.jpg"
 
 const DirectorView = () => {
+  useEffect(() => {
+    document.title = `Director's view`;
+  });
+
   return (
     <div className="row">
       <div className="col-lg-1"></div>
