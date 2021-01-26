@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/sunrise-react/static/css/main.6fefd9e1.chunk.css",
-    "main.js": "/sunrise-react/static/js/main.e28e9531.chunk.js",
-    "main.js.map": "/sunrise-react/static/js/main.e28e9531.chunk.js.map",
+    "main.css": "/sunrise-react/static/css/main.85591860.chunk.css",
+    "main.js": "/sunrise-react/static/js/main.f11135f6.chunk.js",
+    "main.js.map": "/sunrise-react/static/js/main.f11135f6.chunk.js.map",
     "runtime-main.js": "/sunrise-react/static/js/runtime-main.28ebe640.js",
     "runtime-main.js.map": "/sunrise-react/static/js/runtime-main.28ebe640.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/sunrise-react/static/css/2.ae9f1eb3.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.64de3aa3.chunk.js.map": "/sunrise-react/static/js/3.64de3aa3.chunk.js.map",
     "index.html": "/sunrise-react/index.html",
     "static/css/2.ae9f1eb3.chunk.css.map": "/sunrise-react/static/css/2.ae9f1eb3.chunk.css.map",
-    "static/css/main.6fefd9e1.chunk.css.map": "/sunrise-react/static/css/main.6fefd9e1.chunk.css.map",
+    "static/css/main.85591860.chunk.css.map": "/sunrise-react/static/css/main.85591860.chunk.css.map",
     "static/js/2.42b02f8b.chunk.js.LICENSE.txt": "/sunrise-react/static/js/2.42b02f8b.chunk.js.LICENSE.txt",
     "static/media/BuildingPhoto.17c99be1.jpg": "/sunrise-react/static/media/BuildingPhoto.17c99be1.jpg",
     "static/media/DirectorImage.c01fbb2e.jpg": "/sunrise-react/static/media/DirectorImage.c01fbb2e.jpg",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.28ebe640.js",
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.42b02f8b.chunk.js",
-    "static/css/main.6fefd9e1.chunk.css",
-    "static/js/main.e28e9531.chunk.js"
+    "static/css/main.85591860.chunk.css",
+    "static/js/main.f11135f6.chunk.js"
   ]
 }
