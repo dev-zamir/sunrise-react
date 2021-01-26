@@ -16,10 +16,10 @@ const Home = () => {
   return ( 
     <>
       <div className="row">
-        <div className="col-lg-8 col-sm-12">
+        <div className="col-lg-8 col-sm-12 mb-2">
           <HomeIntroduction/>
         </div>
-        <div className="col-lg-4 col-sm-12">
+        <div className="col-lg-4 col-sm-12 mb-2">
           <TopperList/>
         </div>
       </div>
