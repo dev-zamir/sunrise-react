@@ -16,32 +16,32 @@ const Home = () => {
   return ( 
     <>
       <div className="row">
-        <div className="col-lg-8 col-sm-12 mb-2">
+        <div className="col-md-8 col-sm-12 mb-2">
           <HomeIntroduction/>
         </div>
-        <div className="col-lg-4 col-sm-12 mb-2">
+        <div className="col-md-4 col-sm-12 mb-2">
           <TopperList/>
         </div>
       </div>
       <div className="row">
-        <div className="col-lg-4 col-sm-12 mt-2">
+        <div className="col-md-4 col-sm-12 mt-2">
           <StudentSectionCard/>
         </div>
-        <div className="col-lg-4 col-sm-12 mt-2">
+        <div className="col-md-4 col-sm-12 mt-2">
           <TeacherSectionCard/>
         </div>
-        <div className="col-lg-4 col-sm-12 mt-2">
+        <div className="col-md-4 col-sm-12 mt-2">
           <NewsEventsCard/>
         </div>
       </div>
       <div className="row">
-        <div className="col-lg-4 col-sm-12 mt-2">
+        <div className="col-md-4 col-sm-12 mt-2">
           <ParentsSectionCard/>
         </div>
-        <div className="col-lg-4 col-sm-12 mt-2">
+        <div className="col-md-4 col-sm-12 mt-2">
           <ExamSection/>
         </div>
-        <div className="col-lg-4 col-sm-12 mt-2">
+        <div className="col-md-4 col-sm-12 mt-2">
           <PhotoGallery/>
         </div>
       </div>

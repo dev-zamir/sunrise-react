@@ -7,7 +7,7 @@ import BottomBar from './components/BottomBar';
 
 function App() {
   return (
-    <Container className="main-container">
+    <Container maxWidth={false} className="main-container">
       <Header/>
       <MainContent/>
       <BottomBar/>
