@@ -20,8 +20,8 @@ const HomeIntroduction = () => {
   // });
 
   return ( 
-    <Card className="full-width">
-      <CardContent>
+    <Card className="full-height vertical-center">
+      <CardContent className="full-width">
         {
           intro
         }
